@@ -1,7 +1,7 @@
 # 💫 Hello, I'm Nick
 
 ## About Me:
-I'm a Junior Cybersecurity student at Oakwood University passionate about cybersecurity, threat detection, and security operations. I am highly motivated, disciplined in my learning, and committed to developing job-ready skills through hands-on projects and continuous learning. This portfolio showcases my cybersecurity projects as I continue growing into a security professional.
+I'm a Junior Cybersecurity student at Oakwood University passionate about security operations. I am highly motivated, disciplined in my learning, and committed to developing job-ready skills through Internships, hands-on projects, and continuous learning. This portfolio showcases my cybersecurity projects as I continue growing into a security professional.
 
 
 ## 🛠️ Projects:
